@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Bowlby+One+SC);
+@import url(http://fonts.googleapis.com/css?family=Sansita+One);
+
+h1 {
+  font-family: 'Bowlby One SC', cursive;
+  color: red;
+  -webkit-mask-image: url(http://f.cl.ly/items/131E0X1b1i0X1s263R00/a.png);
+  font-size: 250%;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+thead {
+  font-family: 'Sansita One', cursive;
+  color: blue;
+  font-size: 700%;
+}
+
+tr td {
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}
+
+tbody tr td {
+  border: 0.3em solid green; 
+}
+h1 {
+  text-align: center;
+}
+
+.logo {
+  text-align: center;
+}
